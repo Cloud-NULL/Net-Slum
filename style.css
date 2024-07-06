@@ -68,7 +68,7 @@
 
 @media only screen and (max-width: 480px) {
   .mobile-text-box {
-    display: block; /* Display only on screens smaller than 768px */
+    display: flex-block;
     background-color: lightblue;
     padding: 10px;
     margin: 10px;
