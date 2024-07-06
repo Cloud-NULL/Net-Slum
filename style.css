@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-   font-family: Impact, fantasy;
+   font-family: Impact;
 }
 
 .container{
@@ -31,7 +31,7 @@
     color: #929aa5;
     text-decoration: none;
     border: 2px solid #b0afb9e5;
-    padding: 15px 25px;
+    padding: 1px 10px;
     border-radius: 50px;
     transition: 0.3s;
 }
