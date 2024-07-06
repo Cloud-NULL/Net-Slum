@@ -30,8 +30,8 @@
     font-size: 23px;
     color: #929aa5;
     text-decoration: none;
-    border: 2px solid #b0afb9e5;
-    padding: px 10px;
+    border: 1px solid #b0afb9e5;
+    padding: 1px 10px;
     border-radius: 50px;
     transition: 0.3s;
 }
