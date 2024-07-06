@@ -62,8 +62,14 @@
     }
 }
 
-.mobile-text-box {
+.mobile-text-box 
+{
   display: none; /* Hide by default */
+      position: absolute;
+  top: 50%; /* Adjust as needed */
+  left: 50%; /* Adjust as needed */
+  transform: translate(-50%, -50%);
+  z-index: 1000; /* Adjust as needed to ensure it's above your video */
 }
 
 @media only screen and (max-width: 480px) {
